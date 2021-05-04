@@ -62,4 +62,4 @@ Não haverá design, apenas os endpoints;
 
 # Dúvidas
 
-Caso tenha alguma dúvida, poderá enviar um email para rafael@rogalabs.com.
+Caso tenha alguma dúvida, poderá enviar um email para alexandre@rogalabs.com e rafael@rogalabs.com.
