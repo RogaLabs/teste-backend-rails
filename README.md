@@ -31,6 +31,7 @@ Requer Autenticação:
 
 ## Considerações:
 
+- Deverá ser utilizada a versão 2.7.3 do Ruby;
 - Deverá utilizar o PostgreSQL
 - Poderá utilizar o Devise e JWT para autenticação;
 
@@ -39,6 +40,10 @@ Os seguintes items serão considerados um diferencial:
 - Lista das denúncias com suporte a busca pelo descrição;
 - Utilização de Docker para rodar a aplicação localmente;
 - Deploy da aplicação no Heroku;
+- Implementar a validação da latitude e longitude armazenando no banco de dados as informações de endereço retornadas pela API Externa
+  - O serviço de denúncia receberá a geolocalizacão a partir do request e deverá buscar os dados de endereço no seguinte serviço https://developer.mapquest.com/documentation/geocoding-api/;
+  - Para saber como utilizar o referido serviço de geolocalização verifique https://developer.mapquest.com/documentation/ e https://developer.mapquest.com/documentation/geocoding-api/;
+  - A API REST deverá retornar um erro caso o endereço não seja encontrado no serviço de geolocalização;
 
 # Envio do teste
 
