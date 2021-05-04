@@ -31,7 +31,7 @@ Requer Autenticação:
 
 ## Considerações:
 
-- Deverá ser utilizada a versão 2.7.3 do Ruby;
+- Deverá utilizar a versão 2.7.3 do Ruby;
 - Deverá utilizar o PostgreSQL
 - Poderá utilizar o Devise e JWT para autenticação;
 
