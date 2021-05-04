@@ -47,7 +47,8 @@ Os seguintes items serão considerados um diferencial:
 
 # Envio do teste
 
-Ao finalizar, deverá ser enviado um email para rafael@rogalabs.com com o link do repositório e do sistema em produção, no caso de ter feito o deploy.
+Ao finalizar, deverá ser enviado o link do repositório e do sistema em produção, no caso de ter feito o deploy, pelo seguinte formulário:
+https://docs.google.com/forms/d/e/1FAIpQLSfRNR_ByyYpi1yJ5h6t6qoSCfE1dHCea5xrv3RvbpZMc3bUjw/viewform
 
 # Avaliação
 
